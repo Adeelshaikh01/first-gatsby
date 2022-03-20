@@ -7,7 +7,7 @@ function Aboutus() {
   return (
     <Layout>
      <Box>
-       <Typography variant="h4" sx={{fontWeight:"bold"}}>About Us Page !</Typography>
+       <Typography variant="h4" sx={{fontWeight:"bold"}}>About Us Page Changed!!!</Typography>
        <Link to="/">Home</Link>
      </Box>
     </Layout>
